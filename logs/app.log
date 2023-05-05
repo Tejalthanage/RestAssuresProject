@@ -1,0 +1,20 @@
+[INFO ] 2023-05-05 14:47:36.092 [main] UserTest - ********** Creating User************* 
+[INFO ] 2023-05-05 14:47:39.610 [main] UserTest - User Created
+[INFO ] 2023-05-05 14:47:39.638 [main] UserTest - ********** Getting User information************* 
+[INFO ] 2023-05-05 14:47:40.901 [main] UserTest - **********User Updating************* 
+[INFO ] 2023-05-05 15:00:36.902 [main] UserTest - ********** Creating User************* 
+[INFO ] 2023-05-05 15:00:40.392 [main] UserTest - User Created Successfully
+[INFO ] 2023-05-05 15:00:40.411 [main] UserTest - ********** Getting User information************* 
+[INFO ] 2023-05-05 15:00:41.599 [main] UserTest - **********User Updating************* 
+[INFO ] 2023-05-05 15:25:06.577 [main] UserTest - ********** Creating User************* 
+[INFO ] 2023-05-05 15:25:10.663 [main] UserTest - User Created Successfully
+[INFO ] 2023-05-05 15:25:10.680 [main] UserTest - ********** Getting User information************* 
+[INFO ] 2023-05-05 15:25:11.972 [main] UserTest - **********User Updating************* 
+[INFO ] 2023-05-05 15:39:50.121 [main] UserTest - ********** Creating User************* 
+[INFO ] 2023-05-05 15:39:53.761 [main] UserTest - User Created Successfully
+[INFO ] 2023-05-05 15:39:53.812 [main] UserTest - ********** Getting User information************* 
+[INFO ] 2023-05-05 15:39:54.988 [main] UserTest - **********User Updating************* 
+[INFO ] 2023-05-05 16:59:46.878 [main] UserTest - ********** Creating User************* 
+[INFO ] 2023-05-05 16:59:50.644 [main] UserTest - User Created Successfully
+[INFO ] 2023-05-05 16:59:50.656 [main] UserTest - ********** Getting User information************* 
+[INFO ] 2023-05-05 16:59:51.854 [main] UserTest - **********User Updating************* 
